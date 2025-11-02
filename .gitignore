@@ -4,6 +4,10 @@ __pycache__/
 *$py.class
 .Python
 .python-version
+models/*.pkl
+data/raw/**/*.csv
+.ipynb_checkpoints/
+__pycache__/
 
 # Virtual environments
 env/
